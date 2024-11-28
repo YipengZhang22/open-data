@@ -479,6 +479,141 @@
       "source": "G2-05",
       "target": "成立新的AI绘画平台",
       "value": 1
+    },
+    {
+      "source": "G2-06",
+      "target": "有限制使用",
+      "value": 1
+    },
+    {
+      "source": "G2-06",
+      "target": "直接下架",
+      "value": 1
+    },
+    {
+      "source": "G2-06",
+      "target": "维持现状",
+      "value": 1
+    },
+    {
+      "source": "G2-06",
+      "target": "增强AI透明度",
+      "value": 1
+    },
+    {
+      "source": "G2-07",
+      "target": "维持现状",
+      "value": 1
+    },
+    {
+      "source": "G2-07",
+      "target": "终止研发",
+      "value": 1
+    },
+    {
+      "source": "G2-07",
+      "target": "公开AI训练数据集来源",
+      "value": 1
+    },
+    {
+      "source": "G2-07",
+      "target": "与原创作者合作",
+      "value": 1
+    },
+    {
+      "source": "G2-07",
+      "target": "建立侵权反馈举报渠道",
+      "value": 1
+    },
+    {
+      "source": "G2-08",
+      "target": "维持现状",
+      "value": 1
+    },
+    {
+      "source": "G2-08",
+      "target": "终止研发",
+      "value": 1
+    },
+    {
+      "source": "G2-08",
+      "target": "给AI产品加上文字提示",
+      "value": 1
+    },
+    {
+      "source": "G2-09",
+      "target": "维持现状",
+      "value": 1
+    },
+    {
+      "source": "G2-09",
+      "target": "完全移除",
+      "value": 1
+    },
+    {
+      "source": "G2-09",
+      "target": "增强AI透明度",
+      "value": 1
+    },
+    {
+      "source": "G2-09",
+      "target": "成立新的AI绘画平台",
+      "value": 1
+    },
+    {
+      "source": "G2-09",
+      "target": "将AI功能分区",
+      "value": 1
+    },
+    {
+      "source": "G2-10",
+      "target": "终止研发",
+      "value": 1
+    },
+    {
+      "source": "G2-10",
+      "target": "增强AI透明度",
+      "value": 1
+    },
+    {
+      "source": "G2-10",
+      "target": "有限制使用",
+      "value": 1
+    },
+    {
+      "source": "G2-10",
+      "target": "保护原创版权",
+      "value": 1
+    },
+    {
+      "source": "G2-10",
+      "target": "收集用户反馈",
+      "value": 1
+    },
+    {
+      "source": "G2-11",
+      "target": "直接下架",
+      "value": 1
+    },
+    {
+      "source": "G2-11",
+      "target": "维持现状",
+      "value": 1
+    },
+    {
+      "source": "G2-11",
+      "target": "有限制使用",
+      "value": 1
+    },
+    {
+      "source": "G2-12",
+      "target": "无视用户反馈",
+      "value": 1
+    },
+    {
+      "source": "G2-12",
+      "target": "终止研发",
+      "value": 1
     }
   ]
 }
