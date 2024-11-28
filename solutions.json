@@ -128,82 +128,82 @@
     {
       "source": "直接下架",
       "target": "下架AI功能",
-      "value": 1
+      "value": 3
     },
     {
       "source": "终止研发",
       "target": "下架AI功能",
-      "value": 1
+      "value": 3
     },
     {
       "source": "完全移除",
       "target": "下架AI功能",
-      "value": 1
+      "value": 3
     },
     {
       "source": "增强AI透明度",
       "target": "改进AI功能",
-      "value": 1
+      "value": 9
     },
     {
       "source": "公开AI训练数据集来源",
       "target": "改进AI功能",
-      "value": 1
+      "value": 9
     },
     {
       "source": "收集用户反馈",
       "target": "改进AI功能",
-      "value": 1
+      "value": 9
     },
     {
       "source": "建立侵权反馈举报渠道",
       "target": "改进AI功能",
-      "value": 1
+      "value": 9
     },
     {
       "source": "与原创作者合作",
       "target": "改进AI功能",
-      "value": 1
+      "value": 9
     },
     {
       "source": "不提供下载功能",
       "target": "改进AI功能",
-      "value": 1
+      "value": 9
     },
     {
       "source": "给AI产品加上文字提示",
       "target": "改进AI功能",
-      "value": 1
+      "value": 9
     },
     {
       "source": "保护原创版权",
       "target": "改进AI功能",
-      "value": 1
+      "value": 9
     },
     {
       "source": "有限制使用",
       "target": "改进AI功能",
-      "value": 1
+      "value": 9
     },
     {
       "source": "将AI功能分区",
       "target": "分割AI功能",
-      "value": 1
+      "value": 2
     },
     {
       "source": "成立新的AI绘画平台",
       "target": "分割AI功能",
-      "value": 1
+      "value": 2
     },
     {
       "source": "无视用户反馈",
       "target": "不作为",
-      "value": 1
+      "value": 2
     },
     {
       "source": "维持现状",
       "target": "不作为",
-      "value": 1
+      "value": 2
     },
     {
       "source": "G1-01",
