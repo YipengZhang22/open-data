@@ -1,0 +1,484 @@
+{
+  "nodes": [
+    {
+      "name": "G1-01"
+    },
+    {
+      "name": "G1-02"
+    },
+    {
+      "name": "G1-03"
+    },
+    {
+      "name": "G1-04"
+    },
+    {
+      "name": "G1-05"
+    },
+    {
+      "name": "G1-06"
+    },
+    {
+      "name": "G1-07"
+    },
+    {
+      "name": "G1-08"
+    },
+    {
+      "name": "G1-09"
+    },
+    {
+      "name": "G1-10"
+    },
+    {
+      "name": "G1-11"
+    },
+    {
+      "name": "G2-01"
+    },
+    {
+      "name": "G2-02"
+    },
+    {
+      "name": "G2-03"
+    },
+    {
+      "name": "G2-04"
+    },
+    {
+      "name": "G2-05"
+    },
+    {
+      "name": "G2-06"
+    },
+    {
+      "name": "G2-07"
+    },
+    {
+      "name": "G2-08"
+    },
+    {
+      "name": "G2-09"
+    },
+    {
+      "name": "G2-10"
+    },
+    {
+      "name": "G2-11"
+    },
+    {
+      "name": "G2-12"
+    },
+    {
+      "name": "下架AI功能"
+    },
+    {
+      "name": "直接下架"
+    },
+    {
+      "name": "终止研发"
+    },
+    {
+      "name": "完全移除"
+    },
+    {
+      "name": "改进AI功能"
+    },
+    {
+      "name": "增强AI透明度"
+    },
+    {
+      "name": "公开AI训练数据集来源"
+    },
+    {
+      "name": "收集用户反馈并及时做出修改"
+    },
+    {
+      "name": "建立侵权反馈举报渠道"
+    },
+    {
+      "name": "与原创作者合作"
+    },
+    {
+      "name": "不提供下载功能"
+    },
+    {
+      "name": "给AI产品加上文字提示"
+    },
+    {
+      "name": "分割AI功能"
+    },
+    {
+      "name": "将AI功能分区"
+    },
+    {
+      "name": "成立新的AI绘画平台"
+    },
+    {
+      "name": "不作为"
+    },
+    {
+      "name": "无视用户反馈"
+    },
+    {
+      "name": "维持现状"
+    }
+  ],
+  "links": [
+    {
+      "source": "直接下架",
+      "target": "下架AI功能",
+      "value": 1
+    },
+    {
+      "source": "终止研发",
+      "target": "下架AI功能",
+      "value": 1
+    },
+    {
+      "source": "完全移除",
+      "target": "下架AI功能",
+      "value": 1
+    },
+    {
+      "source": "增强AI透明度",
+      "target": "改进AI功能",
+      "value": 1
+    },
+    {
+      "source": "公开AI训练数据集来源",
+      "target": "改进AI功能",
+      "value": 1
+    },
+    {
+      "source": "收集用户反馈",
+      "target": "改进AI功能",
+      "value": 1
+    },
+    {
+      "source": "建立侵权反馈举报渠道",
+      "target": "改进AI功能",
+      "value": 1
+    },
+    {
+      "source": "与原创作者合作",
+      "target": "改进AI功能",
+      "value": 1
+    },
+    {
+      "source": "不提供下载功能",
+      "target": "改进AI功能",
+      "value": 1
+    },
+    {
+      "source": "给AI产品加上文字提示",
+      "target": "改进AI功能",
+      "value": 1
+    },
+    {
+      "source": "保护原创版权",
+      "target": "改进AI功能",
+      "value": 1
+    },
+    {
+      "source": "有限制使用",
+      "target": "改进AI功能",
+      "value": 1
+    },
+    {
+      "source": "将AI功能分区",
+      "target": "分割AI功能",
+      "value": 1
+    },
+    {
+      "source": "成立新的AI绘画平台",
+      "target": "分割AI功能",
+      "value": 1
+    },
+    {
+      "source": "无视用户反馈",
+      "target": "不作为",
+      "value": 1
+    },
+    {
+      "source": "维持现状",
+      "target": "不作为",
+      "value": 1
+    },
+    {
+      "source": "G1-01",
+      "target": "直接下架",
+      "value": 1
+    },
+    {
+      "source": "G1-01",
+      "target": "维持现状",
+      "value": 1
+    },
+    {
+      "source": "G1-01",
+      "target": "与原创作者合作",
+      "value": 1
+    },
+    {
+      "source": "G1-01",
+      "target": "成立新的AI绘画平台",
+      "value": 1
+    },
+    {
+      "source": "G1-02",
+      "target": "直接下架",
+      "value": 1
+    },
+    {
+      "source": "G1-02",
+      "target": "与原创作者合作",
+      "value": 1
+    },
+    {
+      "source": "G1-02",
+      "target": "维持现状",
+      "value": 1
+    },
+    {
+      "source": "G1-02",
+      "target": "不提供下载功能",
+      "value": 1
+    },
+    {
+      "source": "G1-03",
+      "target": "直接下架",
+      "value": 1
+    },
+    {
+      "source": "G1-03",
+      "target": "有限制使用",
+      "value": 1
+    },
+    {
+      "source": "G1-03",
+      "target": "公开AI训练数据集来源",
+      "value": 1
+    },
+    {
+      "source": "G1-03",
+      "target": "增强AI透明度",
+      "value": 1
+    },
+    {
+      "source": "G1-03",
+      "target": "与原创作者合作",
+      "value": 1
+    },
+    {
+      "source": "G1-04",
+      "target": "公开AI训练数据集来源",
+      "value": 1
+    },
+    {
+      "source": "G1-04",
+      "target": "增强AI透明度",
+      "value": 1
+    },
+    {
+      "source": "G1-04",
+      "target": "有限制使用",
+      "value": 1
+    },
+    {
+      "source": "G1-04",
+      "target": "保护原创版权",
+      "value": 1
+    },
+    {
+      "source": "G1-05",
+      "target": "直接下架",
+      "value": 1
+    },
+    {
+      "source": "G1-05",
+      "target": "与原创作者合作",
+      "value": 1
+    },
+    {
+      "source": "G1-06",
+      "target": "维持现状",
+      "value": 1
+    },
+    {
+      "source": "G1-06",
+      "target": "与原创作者合作",
+      "value": 1
+    },
+    {
+      "source": "G1-06",
+      "target": "直接下架",
+      "value": 1
+    },
+    {
+      "source": "G1-07",
+      "target": "与原创作者合作",
+      "value": 1
+    },
+    {
+      "source": "G1-07",
+      "target": "公开AI训练数据集来源",
+      "value": 1
+    },
+    {
+      "source": "G1-07",
+      "target": "直接下架",
+      "value": 1
+    },
+    {
+      "source": "G1-08",
+      "target": "直接下架",
+      "value": 1
+    },
+    {
+      "source": "G1-08",
+      "target": "保护原创版权",
+      "value": 1
+    },
+    {
+      "source": "G1-08",
+      "target": "建立侵权反馈举报渠道",
+      "value": 1
+    },
+    {
+      "source": "G1-09",
+      "target": "维持现状",
+      "value": 1
+    },
+    {
+      "source": "G1-09",
+      "target": "直接下架",
+      "value": 1
+    },
+    {
+      "source": "G1-09",
+      "target": "公开AI训练数据集来源",
+      "value": 1
+    },
+    {
+      "source": "G1-09",
+      "target": "保护原创版权",
+      "value": 1
+    },
+    {
+      "source": "G1-09",
+      "target": "与原创作者合作",
+      "value": 1
+    },
+    {
+      "source": "G1-10",
+      "target": "完全移除",
+      "value": 1
+    },
+    {
+      "source": "G1-10",
+      "target": "保护原创版权",
+      "value": 1
+    },
+    {
+      "source": "G1-10",
+      "target": "增强AI透明度",
+      "value": 1
+    },
+    {
+      "source": "G1-10",
+      "target": "与原创作者合作",
+      "value": 1
+    },
+    {
+      "source": "G1-11",
+      "target": "完全移除",
+      "value": 1
+    },
+    {
+      "source": "G1-11",
+      "target": "增强AI透明度",
+      "value": 1
+    },
+    {
+      "source": "G2-01",
+      "target": "完全移除",
+      "value": 1
+    },
+    {
+      "source": "G2-01",
+      "target": "维持现状",
+      "value": 1
+    },
+    {
+      "source": "G2-01",
+      "target": "有限制使用",
+      "value": 1
+    },
+    {
+      "source": "G2-02",
+      "target": "将AI功能分区",
+      "value": 1
+    },
+    {
+      "source": "G2-02",
+      "target": "直接下架",
+      "value": 1
+    },
+    {
+      "source": "G2-03",
+      "target": "将AI功能分区",
+      "value": 1
+    },
+    {
+      "source": "G2-03",
+      "target": "直接下架",
+      "value": 1
+    },
+    {
+      "source": "G2-03",
+      "target": "维持现状",
+      "value": 1
+    },
+    {
+      "source": "G2-03",
+      "target": "与原创作者合作",
+      "value": 1
+    },
+    {
+      "source": "G2-04",
+      "target": "直接下架",
+      "value": 1
+    },
+    {
+      "source": "G2-04",
+      "target": "维持现状",
+      "value": 1
+    },
+    {
+      "source": "G2-04",
+      "target": "将AI功能分区",
+      "value": 1
+    },
+    {
+      "source": "G2-04",
+      "target": "有限制使用",
+      "value": 1
+    },
+    {
+      "source": "G2-05",
+      "target": "直接下架",
+      "value": 1
+    },
+    {
+      "source": "G2-05",
+      "target": "维持现状",
+      "value": 1
+    },
+    {
+      "source": "G2-05",
+      "target": "成立新的AI绘画平台",
+      "value": 1
+    }
+  ]
+}
